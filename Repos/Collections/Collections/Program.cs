@@ -10,79 +10,78 @@ namespace Collections
     {
         static void Main(string[] args)
         {
-            #region non generic
+            //#region non generic
 
-            //   ArrayList
+            ////   ArrayList
 
-            ArrayList list = new ArrayList() { 1, "2", 12 };
-            Console.WriteLine(nameof(list));
-            list.Add("mynewStr");
-            Show(nameof(list), list, list.Capacity);
-            Console.WriteLine("-------------------------");
+            //ArrayList list = new ArrayList() { 1, "2", 12 };
+            //Console.WriteLine(nameof(list));
+            //list.Add("mynewStr");
+            //Show(nameof(list), list, list.Capacity);
+            //Console.WriteLine("-------------------------");
 
-            ////////////////////////////////////////////////////////////////////////////////
-            MyArrayList myArrayList = new MyArrayList() { 1, 2, 3 };
-            ShowArrayList(myArrayList);
+            //////////////////////////////////////////////////////////////////////////////////
+            //MyArrayList myArrayList = new MyArrayList() { 1, 2, 3 };
+            //ShowArrayList(myArrayList);
 
-            MyArrayList myEmptyArrayList = new MyArrayList();
-            ShowArrayList(myEmptyArrayList);
+            //MyArrayList myEmptyArrayList = new MyArrayList();
+            //ShowArrayList(myEmptyArrayList);
 
-            MyArrayList myCapacityArrayList = new MyArrayList(3);
-            ShowArrayList(myCapacityArrayList);
+            //MyArrayList myCapacityArrayList = new MyArrayList(3);
+            //ShowArrayList(myCapacityArrayList);
 
-            ////////////////////////////////////////////////////////////////////////////////
+            //////////////////////////////////////////////////////////////////////////////////
 
-            // Queue
-            MyQueue queue = new MyQueue();
-            queue.Enqueue("first");
-            ShowQueue(queue);
+            //// Queue
+            //MyQueue queue = new MyQueue();
+            //queue.Enqueue("first");
+            //ShowQueue(queue);
 
-            // Stack
-            MyStack stack = new MyStack(5);
-            Console.WriteLine("Insert first,second, third");
+            //// Stack
+            //MyStack stack = new MyStack(5);
+            //Console.WriteLine("Insert first,second, third");
 
-            stack.Push("first");
-            stack.Push("second");
-            stack.Push("third");
+            //stack.Push("first");
+            //stack.Push("second");
+            //stack.Push("third");
 
-            Console.WriteLine("Read:");
+            //Console.WriteLine("Read:");
 
-            Console.WriteLine(stack.Pop());
-            Console.WriteLine(stack.Pop());
-            Console.WriteLine(stack.Pop());
+            //Console.WriteLine(stack.Pop());
+            //Console.WriteLine(stack.Pop());
+            //Console.WriteLine(stack.Pop());
 
-            #endregion
+            //#endregion
 
 
-            #region Generic
+            //#region Generic
 
-            MyList<string> myList = new MyList<string>() {"1", "2", "3"};
+            //MyList<string> myList = new MyList<string>() {"1", "2", "3"};
             
-            myList.Add("4");
-            myList.AddFirst("0");
+            //myList.Add("4");
+            //myList.AddFirst("0");
 
-            foreach (var element in myList)
-            {
-                    Console.WriteLine(element.ToString());
-            }
+            //foreach (var element in myList)
+            //{
+            //        Console.WriteLine(element.ToString());
+            //}
 
 
 
-            MyLinkedList<int> myLinkedList = new MyLinkedList<int>();
-            myLinkedList.Add(1);
-            myLinkedList.Add(12);
-            myLinkedList.AddFirst(123);
+            //MyLinkedList<int> myLinkedList = new MyLinkedList<int>();
+            //myLinkedList.Add(1);
+            //myLinkedList.Add(12);
+            //myLinkedList.AddFirst(123);
 
-            foreach (var element in myList)
-            {
-                Console.WriteLine(element.ToString());
-            }
-            #endregion #endregion
+            //foreach (var element in myList)
+            //{
+            //    Console.WriteLine(element.ToString());
+            //}
+            //#endregion #endregion
 
 
             BoreNodeProgram.Run();
-            
-            ConcurrentStack<>
+          
         }
 
         static void ShowArrayList(MyArrayList myArrayList)

@@ -1,0 +1,11 @@
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\bin\Debug\netcoreapp2.1\ExtraLangFeatures.deps.json
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\bin\Debug\netcoreapp2.1\ExtraLangFeatures.runtimeconfig.json
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\bin\Debug\netcoreapp2.1\ExtraLangFeatures.runtimeconfig.dev.json
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\bin\Debug\netcoreapp2.1\ExtraLangFeatures.dll
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\bin\Debug\netcoreapp2.1\ExtraLangFeatures.pdb
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\obj\Debug\netcoreapp2.1\ExtraLangFeatures.csprojAssemblyReference.cache
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\obj\Debug\netcoreapp2.1\ExtraLangFeatures.csproj.CoreCompileInputs.cache
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\obj\Debug\netcoreapp2.1\ExtraLangFeatures.AssemblyInfoInputs.cache
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\obj\Debug\netcoreapp2.1\ExtraLangFeatures.AssemblyInfo.cs
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\obj\Debug\netcoreapp2.1\ExtraLangFeatures.dll
+E:\Desktop\ИПР\Repos\ExtraLangFeatures\ExtraLangFeatures\obj\Debug\netcoreapp2.1\ExtraLangFeatures.pdb
