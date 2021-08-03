@@ -1,0 +1,11 @@
+E:\Desktop\ИПР\Repos\Delegates\Delegates\bin\Debug\netcoreapp2.1\Delegates.deps.json
+E:\Desktop\ИПР\Repos\Delegates\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.json
+E:\Desktop\ИПР\Repos\Delegates\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.dev.json
+E:\Desktop\ИПР\Repos\Delegates\Delegates\bin\Debug\netcoreapp2.1\Delegates.dll
+E:\Desktop\ИПР\Repos\Delegates\Delegates\bin\Debug\netcoreapp2.1\Delegates.pdb
+E:\Desktop\ИПР\Repos\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.csprojAssemblyReference.cache
+E:\Desktop\ИПР\Repos\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.csproj.CoreCompileInputs.cache
+E:\Desktop\ИПР\Repos\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfoInputs.cache
+E:\Desktop\ИПР\Repos\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfo.cs
+E:\Desktop\ИПР\Repos\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.dll
+E:\Desktop\ИПР\Repos\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.pdb

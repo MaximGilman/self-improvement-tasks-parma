@@ -7,3 +7,4 @@
 1. [Интерфейсы, типовые интерфейсы C#, вариантность](https://github.com/MaximGilman/self-improvement-tasks-parma/blob/master/Docs/Интерфейсы.md)
 
 ## Практика
+1. [Коллекции, обобщенные коллекции](https://github.com/MaximGilman/self-improvement-tasks-parma/tree/master/Repos/Collections)

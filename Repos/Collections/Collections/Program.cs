@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Concurrent;
 using System.Linq;
 using Collections.Extra;
 
@@ -80,6 +81,8 @@ namespace Collections
 
 
             BoreNodeProgram.Run();
+            
+            ConcurrentStack<>
         }
 
         static void ShowArrayList(MyArrayList myArrayList)
