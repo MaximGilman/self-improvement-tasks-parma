@@ -13,6 +13,12 @@ namespace ExtraLangFeatures
             Console.WriteLine("строкабезпробелов".GetLettersCount());
             Console.WriteLine("строка без пробелов".GetLettersCount());
 
+            
+            
+            Console.WriteLine("LINQ");
+            LinqPresenter lp = new LinqPresenter();
+            lp.Run();
+            
         }
     }
 }
