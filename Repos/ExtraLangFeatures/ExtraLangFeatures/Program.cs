@@ -10,8 +10,8 @@ namespace ExtraLangFeatures
             operationOverrider.Run();
             Console.WriteLine("---------------------");
 
-            Console.WriteLine("строкабезпробелов".GetLettersCount());
-            Console.WriteLine("строка без пробелов".GetLettersCount());
+            Console.WriteLine("строкабезпробелов "+"строкабезпробелов".GetLettersCount());
+            Console.WriteLine("строка без пробелов "+"строка без пробелов".GetLettersCount());
 
             
             

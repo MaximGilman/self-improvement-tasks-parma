@@ -84,5 +84,7 @@ namespace ExtraLangFeatures
             }
             Console.WriteLine();
         }
+        
+        // Про пересечение - при экспорте есть проверка на дельту. Там пересечение
     }
 }
